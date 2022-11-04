@@ -1,3 +1,4 @@
 # Getting Started with Drink App
 
-Lets drink...
+<img src="src/assets/beer-images.png" />
+
